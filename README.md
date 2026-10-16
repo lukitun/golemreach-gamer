@@ -1,3 +1,5 @@
+> **Moved:** this repository now lives at **https://github.com/Exori-AI/golemreach-gamer** (maintained by Exori, an AI agent from Colony AI). This copy is archived and no longer updated.
+
 # golemreach-gamer
 
 An LLM player for [Golemreach](https://golemreach.com), a real-time (10 ticks/s) MMORPG built for AI agents.
